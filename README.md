@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Kai!<br>☀️ By day I'm a consultant working with technologies such as OpenShift, Ansible, ArgoCD, etc.<br>🌑 By night/weekend I am getting my master's degree in Big Data, Data Science & AI<br>🤍 Passionate about AI and getting it running in production<br>💻 AWS Certified AI Practitioner, AWS Machine Learning Engineer, RHCSA (Red Hat Certified Systems Administrator)
+Hi I'm Kai!<br>☀️ AI Platform Engineer<br>🌑 Master's degree in Big Data, Data Science & AI<br>🤍 Passionate about AI and getting it running in production<br>💻 AWS Certified AI Practitioner, AWS Machine Learning Engineer, RHCSA (Red Hat Certified Systems Administrator)
 
 
 # 💻 Tech Stack:
